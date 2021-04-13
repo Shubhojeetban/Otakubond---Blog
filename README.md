@@ -1,12 +1,12 @@
 # Otakubond---Blog
-This is blog web page on Java (Servlet)
+This is blog web page on Java
 
 ## Technologies used
-Eclipse
-Tomcat Server
-MySql
+Eclipse <br/>
+Tomcat Server <br/>
+MySql <br/>
 
 ## Languages
-Servlet
-JSP 
-Sql 
+Servlet <br/>
+JSP <br/>
+Sql <br/>
